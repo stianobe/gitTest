@@ -1,1 +1,1 @@
-editing file1
+Conflict fixed
