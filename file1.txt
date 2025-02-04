@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 editing file1
+=======
+>>>>>>> a51d58858c97159e1871a304d4d1c11ec7b85bce
